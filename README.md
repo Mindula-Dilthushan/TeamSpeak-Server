@@ -3,6 +3,11 @@
 # TeamSpeak-Server - 51.38.196.214:3133
 </div>
 
+<div align="center">
+
+![logo](https://github.com/Mindula-Dilthushan/TeamSpeak-Server/blob/master/assets/img/logo.svg)
+</div>
+
 #### Clone this repository ✅
 ```md
 git clone https://github.com/Mindula-Dilthushan/TeamSpeak-Server.git
