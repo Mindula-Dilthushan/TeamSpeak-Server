@@ -1,12 +1,17 @@
 <div align="center">
 
-# TeamSpeak-Server - 51.38.196.214:3133
+# TeamSpeak-Server 
 </div>
 
 <div align="center">
 
 ![logo](https://github.com/Mindula-Dilthushan/TeamSpeak-Server/blob/master/assets/img/logo.svg)
 </div>
+
+### Server Ip Address 🎮
+```
+51.38.196.214:3133
+```
 
 #### Clone this repository ✅
 ```md
